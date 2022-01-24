@@ -1,2 +1,2 @@
 # PP
-Ocaml code
+Programming Paradigms
